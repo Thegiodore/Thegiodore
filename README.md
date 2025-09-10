@@ -22,7 +22,7 @@ Hi, I'm Thegiodore👋
 
 ---
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thegiodore&show_icons=true&theme=vue-dark&count_private=true" alt="Your GitHub Stats" />
@@ -36,7 +36,7 @@ Hi, I'm Thegiodore👋
 
 ---
 
-### My Skills
+### 💡My Skills
 
 <div align="center">
   <p>
