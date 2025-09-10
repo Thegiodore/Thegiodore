@@ -24,9 +24,9 @@ Hi, I'm Thegiodore👋
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thegiodore&show_icons=true&theme=vue-dark&count_private=true" alt="Your GitHub Stats" />
-</p>
+     <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=Thegiodore&show_icons=true&theme=vue-dark&count_private=true" alt="Your GitHub Stats" />
+     </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegiodore&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
